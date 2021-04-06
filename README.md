@@ -211,8 +211,7 @@ INF라면 INF로 출력한다.
 
 
 ### 5. 결과
-![image](https://user-images.githubusercontent.com/81409594/113569047-c1522880-964c-11eb-872b-3d0dad938e04.png)
-
+![화면 캡처 2021-04-06 151837](https://user-images.githubusercontent.com/80373033/113667257-79cea980-96eb-11eb-9e51-6b2ea660f767.png)
 
 
 
